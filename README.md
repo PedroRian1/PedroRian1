@@ -18,4 +18,4 @@
   </a>
 </p>
 
-![GitHub Snake](https://githubusercontent.com)
+<img src="https://raw.githubusercontent.com/PedroRian1/PedroRian1/output/snake.svg" alt="Snake animation" />
